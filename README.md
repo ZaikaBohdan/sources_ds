@@ -6,7 +6,8 @@ Sources for learning Data Analysis / Data Science skills
 3. Statistics with R - https://ru.coursera.org/specializations/statistics
 ## 2.Free courses:
 1. Kaggle Micro Courses - https://www.kaggle.com/learn/overview
-2. Google Machine Learning Crash Course (advanced, requires python) - https://developers.google.com/machine-learning/crash-course
+2. Intro to SQL: Querying and managing data (good for beginers) - https://www.khanacademy.org/computing/computer-programming/sql
+3. Google Machine Learning Crash Course (advanced, requires python) - https://developers.google.com/machine-learning/crash-course
    (Additional to prev) Google Colab - https://colab.research.google.com/notebooks/intro.ipynb
 3. Fast.ai (Deep Learning, requires python) - https://www.fast.ai/
 4. Intro to Data Structures and Algorithms (as addition to 3.1) - https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513
