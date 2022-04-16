@@ -14,7 +14,7 @@
 3. [Fast.ai (Deep Learning)](https://www.fast.ai/)
 
 ## 1.3. OOP (Python)
-1. [Think Python (2nd ed)](https://greenteapress.com/wp/think-python-2e/) (repeat)
+1. [Think Python (2nd ed)](https://greenteapress.com/wp/think-python-2e/) (revise)
 
 ## 1.4. Interview preparation
 1. [StrataScratch](https://platform.stratascratch.com/pricing?via=giles)
