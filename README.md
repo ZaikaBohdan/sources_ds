@@ -1,7 +1,11 @@
 # Sources for learning Data Science skills
 # 1. TO DO
 
+## 1.0. DS
+1. [Krish Naik Youtube channel](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
+
 ## 1.1. Statistics
+1. [Think Stats 2e](https://greenteapress.com/wp/think-stats-2e/)
 
 ## 1.2. Machine Learning
 1. [Kaggle Micro Courses](https://www.kaggle.com/learn/overview)
@@ -9,9 +13,10 @@
 3. [Fast.ai (Deep Learning)](https://www.fast.ai/)
 
 ## 1.3. OOP (Python)
+1. [Think Python (2nd ed)](https://greenteapress.com/wp/think-python-2e/) (repeat)
 
 ## 1.4. Interview preparation
-
+1. [StrataScratch](https://platform.stratascratch.com/pricing?via=giles)
 
 # 2. Done
 ## 2.1. Python:
