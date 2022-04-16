@@ -6,6 +6,7 @@
 
 ## 1.1. Statistics
 1. [Think Stats 2e](https://greenteapress.com/wp/think-stats-2e/)
+2. [How to Learn Statistics for Data Science, The Self-Starter Way](https://elitedatascience.com/learn-statistics-for-data-science)
 
 ## 1.2. Machine Learning
 1. [Kaggle Micro Courses](https://www.kaggle.com/learn/overview)
