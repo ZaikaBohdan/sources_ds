@@ -20,7 +20,7 @@
 1. [StrataScratch](https://platform.stratascratch.com/pricing?via=giles)
 
 # 2. Done
-## 2.1. Python:
+## 2.1. Python
 1. [Think Python (2nd ed)](https://greenteapress.com/wp/think-python-2e/)
 2. [Data Scientist in Python (DataQuest)](https://app.dataquest.io/path/data-scientist)
 
@@ -31,11 +31,15 @@
 ## 2.3. Excel
 1. [Everyday Excel, Part 1](https://www.coursera.org/learn/everyday-excel-part-1)
 
-# 3. Practice:
+# 3. Practice
 1. [Project Euler](https://projecteuler.net/) (programming math tasks)
 2. [Leetcode](https://leetcode.com/) (programming tasks) 
 3. [Kaggle](https://www.kaggle.com) (DS projects)
 
-# 4. Resources:
+# 4. Resources
 1. [Green Tea Press](https://greenteapress.com/)
 2. [Medium](https://medium.com/)
+
+# 5. Other (interesting material, but similar to the "Done" section)
+1. [Simplilearn](https://www.simplilearn.com/skillup-free-online-courses?utm_source=Drip&utm_medium=email&utm_campaign=SkillupAcquisition1#Data-Science-&-Business-Analytics) (free courses, different topics)
+2. [Mode](https://mode.com/sql-tutorial/) (SQL course)
